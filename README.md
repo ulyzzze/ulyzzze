@@ -10,16 +10,11 @@
 
 <div align="center">
 
-**ulyzzze/ulyzzze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I am currently a student of **Epitech**
-- 🌱 I’m currently learning **Docker, React and C++**
-- 🤔 I’m currently looking for an **internship** in IT
-- 📫 How to reach me: ...
--->
-
+🔭 I am currently a student of **Epitech**
+🌱 I’m currently learning **Docker, React and C++**
+🤔 I’m currently looking for an **internship** in IT
+📫 How to reach me:
+  
  </div>
  
 <div align="center"> 
