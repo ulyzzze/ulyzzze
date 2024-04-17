@@ -11,8 +11,11 @@
 <div align="center">
 
 🔭 I am currently a student of **Epitech**
+
 🌱 I’m currently learning **Docker, React and C++**
+
 🤔 I’m currently looking for an **internship** in IT
+
 📫 How to reach me:
   
  </div>
