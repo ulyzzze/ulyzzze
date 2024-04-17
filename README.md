@@ -10,7 +10,6 @@
 
 <div align="center">
 
-<!--
 **ulyzzze/ulyzzze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
  </div>
  
 <div align="center"> 
-  <a href="mailto:ulysse.couchoud@epitech.eu">
+  <a href="mail:ulysse.couchoud@epitech.eu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ulysse-couchoud-a975322a4/" target="_blank">
