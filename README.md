@@ -12,7 +12,7 @@
 
 🔭 I am currently a student of **Epitech**
 
-🌱 I’m currently learning **Docker, Github Actions, C# and C++**
+🌱 I’m currently learning **C++**
 
 🤔 I’m currently looking for an **internship** in IT
 
@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,express,mongodb,c,postgresql,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,express,mongodb,c,cpp,postgresql,mysql" /><br>
 </div>
 
 <br/>
