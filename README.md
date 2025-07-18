@@ -12,7 +12,7 @@
 
 🔭 I am currently a student of **Epitech**
 
-🌱 I’m currently learning **C++**
+🌱 I’m currently learning **IA**
 
 🤔 I’m currently looking for an **internship** in IT
 
