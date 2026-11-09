@@ -34,4 +34,6 @@ Machine Learning · Deep Learning · NLP · LLMs · RAG · Embeddings · Transfo
 **⚙️ Backend & Infrastructure**
 Node.js · Express · REST APIs · PostgreSQL · MongoDB · Redis · Docker
 
+Portfolio: https://ulysse-couchoud.vercel.app/
+
 </div>
